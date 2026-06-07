@@ -1,0 +1,6 @@
+{
+  "name": "Our Forever Story",
+  "description": "A highly aesthetic, Ghibli-inspired interactive scrapbook and friendship memory website for Yashasvi & Anika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
